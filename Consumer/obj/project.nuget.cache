@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "JNUSMTJ+fpKf1xVAoBvr1gRS8GjM94goi+YivvuI15A3zCHA8Fc5u1KrhWBViUBzQe+i8TJTqQAvb2JWiSXVug==",
+  "success": true,
+  "projectFilePath": "C:\\Learning\\MessageBroker\\Consumer\\Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marko\\.nuget\\packages\\rabbitmq.client\\7.0.0-rc.11\\rabbitmq.client.7.0.0-rc.11.nupkg.sha512",
+    "C:\\Users\\marko\\.nuget\\packages\\system.io.pipelines\\6.0.0\\system.io.pipelines.6.0.0.nupkg.sha512",
+    "C:\\Users\\marko\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\marko\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\marko\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\marko\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
